@@ -15,6 +15,7 @@ namespace DesktopApp
         public MainView()
         {
             InitializeComponent();
+            MessageBox.Show("Гит, уважаемый, работай по братски");
         }
     }
 }
